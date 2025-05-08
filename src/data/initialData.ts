@@ -31,7 +31,7 @@ export const initialCryptoData: CryptoData[] = [
     rank: 1,
     name: 'Bitcoin',
     symbol: 'BTC',
-    logo: '/lovable-uploads/f6fee511-a177-493c-9ee7-18433938367e.png', // Will use correct logo in component
+    logo: '/uploads/f6fee511-a177-493c-9ee7-18433938367e.png', // Will use correct logo in component
     price: 93759.48,
     percentChange1h: 0.43,
     percentChange24h: 0.93,
@@ -47,7 +47,7 @@ export const initialCryptoData: CryptoData[] = [
     rank: 2,
     name: 'Ethereum',
     symbol: 'ETH',
-    logo: '/lovable-uploads/f6fee511-a177-493c-9ee7-18433938367e.png', // Will use correct logo in component
+    logo: '/uploads/f6fee511-a177-493c-9ee7-18433938367e.png', // Will use correct logo in component
     price: 1802.46,
     percentChange1h: 0.60,
     percentChange24h: 3.21,
@@ -63,7 +63,7 @@ export const initialCryptoData: CryptoData[] = [
     rank: 3,
     name: 'Tether',
     symbol: 'USDT',
-    logo: '/lovable-uploads/f6fee511-a177-493c-9ee7-18433938367e.png', // Will use correct logo in component
+    logo: '/uploads/f6fee511-a177-493c-9ee7-18433938367e.png', // Will use correct logo in component
     price: 1.00,
     percentChange1h: 0,
     percentChange24h: 0,
@@ -79,7 +79,7 @@ export const initialCryptoData: CryptoData[] = [
     rank: 4,
     name: 'XRP',
     symbol: 'XRP',
-    logo: '/lovable-uploads/f6fee511-a177-493c-9ee7-18433938367e.png', // Will use correct logo in component
+    logo: '/uploads/f6fee511-a177-493c-9ee7-18433938367e.png', // Will use correct logo in component
     price: 2.22,
     percentChange1h: 0.46,
     percentChange24h: 0.54,
@@ -95,7 +95,7 @@ export const initialCryptoData: CryptoData[] = [
     rank: 5,
     name: 'BNB',
     symbol: 'BNB',
-    logo: '/lovable-uploads/f6fee511-a177-493c-9ee7-18433938367e.png', // Will use correct logo in component
+    logo: '/uploads/f6fee511-a177-493c-9ee7-18433938367e.png', // Will use correct logo in component
     price: 606.65,
     percentChange1h: 0.09,
     percentChange24h: -1.20,
@@ -111,7 +111,7 @@ export const initialCryptoData: CryptoData[] = [
     rank: 6,
     name: 'Solana',
     symbol: 'SOL',
-    logo: '/lovable-uploads/f6fee511-a177-493c-9ee7-18433938367e.png', // Will use correct logo in component
+    logo: '/uploads/f6fee511-a177-493c-9ee7-18433938367e.png', // Will use correct logo in component
     price: 151.51,
     percentChange1h: 0.53,
     percentChange24h: 1.26,
